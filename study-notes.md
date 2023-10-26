@@ -5,3 +5,9 @@ Computer Vision: Algorithms and Applications, 2nd ed. by Richard Szeliski, The U
 ### Resources:
 * [Book web site](https://szeliski.org/Book/)
 * [Slides](https://www.cs.cornell.edu/courses/cs5670/2023sp/)
+
+
+# Chap 2: Image Formation
+
+
+
